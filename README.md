@@ -15,8 +15,11 @@ request, json, getpass, time, simple_term_menu
 
 ScreenShoot
 --------------
+![main](https://github.com/dearevalillo/webinar_api_zero_touch/blob/master/main.PNG)
 
+![quantum options](https://github.com/dearevalillo/webinar_api_zero_touch/blob/master/quantum.PNG)
 
+![show quantum options](https://github.com/dearevalillo/webinar_api_zero_touch/blob/master/show_option_quantum.PNG)
 
 
 License
