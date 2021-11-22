@@ -8,7 +8,7 @@ https://zerotouch.checkpoint.com/ZeroTouch/login.jsp
 Requirements
 ------------
 
->= python3.4
+> ">=python3.4"
 
 request, json, getpass, time, simple_term_menu
 
