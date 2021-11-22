@@ -1,0 +1,51 @@
+{
+
+"time-zone": "GMT(Casablanca)",
+
+"account-id": 8162015,
+
+"template-id": 608212,
+
+"user-script": "",
+
+"accept-lan": true,
+
+"accept-wifi": true,
+
+"accept-vpn": true,
+
+"accept-wan": true,
+
+"upload-info": true,
+
+"service-center": "",
+
+"registration-key": "",
+
+"wireless-country": "ES",
+
+"admin-password": "f5f5f5f5",
+
+"admin-access": "",
+
+"limit-source-ip-mode": "LIMIT_SRC_IP_MODE.NO_LIMIT",
+
+"ignore-cert-verification": false,
+
+"use-cpn-tp-server": true,
+
+"auto-gateway-creation": false,
+
+"under-construction": false,
+
+"activate-rmd": false,
+
+"name": "Template A",
+
+"comments": "My comments",
+
+"portal": "",
+
+"plan": ""
+
+}
