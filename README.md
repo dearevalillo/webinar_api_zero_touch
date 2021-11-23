@@ -13,7 +13,7 @@ Requirements
 request, json, getpass, time, simple_term_menu
 
 
-ScreenShoot
+ScreenShot
 --------------
 ![main](https://github.com/dearevalillo/webinar_api_zero_touch/blob/master/main.PNG)
 
