@@ -26,9 +26,11 @@ Docker
 If you want to use a **docker_all_in_one** just execute the following:
 
 **docker build -t dockerwebinarzerotouch .** 
+
 ![docker_image_ls](https://github.com/dearevalillo/webinar_api_zero_touch/blob/master/docker_image_ls.PNG)
 
 **docker run -ti --name webinarzerotouch dockerwebinarzerotouch**
+
 ![docker_ps_a](https://github.com/dearevalillo/webinar_api_zero_touch/blob/master/docker_ps_a.PNG)
 
 ![docker_exec](https://github.com/dearevalillo/webinar_api_zero_touch/blob/master/docker_exec.PNG)
